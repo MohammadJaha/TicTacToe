@@ -10,7 +10,7 @@ Using **Kotlin**
 
 This Code Provide Simple **Game** For **Android Users**
 
-This Application Called **Tic Tac Toe**
+This Game Called **Tic Tac Toe**
 &nbsp;  
 &nbsp;  
 
